@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(https://www.hdwallpapers.in/download/starry_sky_milky_way_space_during_nighttime_4k_hd_space-HD.jpg);
+  background-repeat: no-repeat;
+  background-size: 1920px auto;
+}
+
+
+canvas {
+  height: 100vh !important;
+  
+}
